@@ -1,0 +1,5 @@
+{
+  "name": "Ler e Escrever a Brincar (offline)",
+  "description": "Plataforma educativa de intervenção psicopedagógica na leitura, escrita, linguagem e compreensão para alunos do 1.º Ciclo. Versão experimental, estática e offline: os dados ficam no navegador.",
+  "requestFramePermissions": []
+}
